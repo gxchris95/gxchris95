@@ -1,9 +1,9 @@
 Currently PM (AI & Infra) at EA. CMU Alumni, SJTU (MMed).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gxchris/gxchris/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gxchris/gxchris/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gxchris/gxchris/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gxchris95/gxchris/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gxchris95/gxchris/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gxchris95/gxchris/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <table><tr><td valign="top" width="50%">
