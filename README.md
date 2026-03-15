@@ -1,4 +1,4 @@
-Currently PM (AI & Infra) at EA. CMU Alumni, SJTU (MMed).
+Currently PM (AI & Infra) at EA. CMU Alumni (AI/ML), SJTU (MMed).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gxchris95/gxchris95/output/github-contribution-grid-snake-dark.svg" />
