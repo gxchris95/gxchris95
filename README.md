@@ -16,7 +16,7 @@ Currently PM (AI & Infra) at EA. CMU Alumni (AI/ML), SJTU (MMed).
 </td><td valign="top" width="50%">
 
 ### Papers
-- [PsychoGAT: Interactive Fiction Games with LLM Agents](https://aclanthology.org/2024.acl-long.779/) (ACL 2024)
+- [PsychoGAT: Psychological Measurement via Interactive Fiction with LLM Agents](https://aclanthology.org/2024.acl-long.779/) (ACL 2024)
 - [A Data-Centric Framework for Composable NLP Workflows](https://aclanthology.org/2020.emnlp-demos.26/) (EMNLP 2020)
 - [Multimodal Machine Learning for Automated ICD Coding](https://proceedings.mlr.press/v106/xu19a.html) (MLHC 2019)
 
